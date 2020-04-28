@@ -65,9 +65,13 @@ class TestClass{
 
 
 let testclass = TestClass()
+
 print("\(testclass.testString2)")
+
 print("\(testclass.testString)")
+
 print("\(testclass.testString)")
+
 print(TestClass.testString3)
 
 
